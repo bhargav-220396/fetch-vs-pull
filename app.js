@@ -5,3 +5,5 @@ console.log("For testing git_industry_commands");
 console.log("For git_industry_commands 2");
 console.log("For git_industry_commands 3")
 console.log("Commit command test");
+console.log("Second commit example");
+console.log("Third commit change");
