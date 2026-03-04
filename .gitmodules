@@ -1,0 +1,3 @@
+[submodule "submodule-demo"]
+	path = submodule-demo
+	url = https://github.com/bhargav-220396/fetch-vs-pull.git

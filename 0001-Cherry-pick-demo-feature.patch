@@ -1,0 +1,25 @@
+From d61fc74201a649a5150dfa45ac7092eef34879da Mon Sep 17 00:00:00 2001
+From: iambhargav-2007 <prbhargav2007@gmail.com>
+Date: Wed, 4 Mar 2026 16:57:16 +0530
+Subject: [PATCH] Cherry pick demo feature
+
+---
+ app.js | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/app.js b/app.js
+index 41a1580..0d6d543 100644
+--- a/app.js
++++ b/app.js
+@@ -8,4 +8,5 @@ console.log("Commit command test");
+ console.log("Second commit example");
+ console.log("Third commit change");
+ console.log("Merge no-ff demo change");
+-console.log("Main branch change for rebase");
+\ No newline at end of file
++console.log("Main branch change for rebase");
++console.log("Cherry pick demo feature");
+\ No newline at end of file
+-- 
+2.50.0.windows.1
+
