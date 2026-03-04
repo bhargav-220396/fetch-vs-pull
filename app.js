@@ -8,3 +8,4 @@ console.log("Commit command test");
 console.log("Second commit example");
 console.log("Third commit change");
 console.log("Merge no-ff demo change");
+console.log("Main branch change for rebase");
